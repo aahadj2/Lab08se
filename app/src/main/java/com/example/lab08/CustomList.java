@@ -20,7 +20,7 @@ public class CustomList {
     public  void delCity(City city){
         cities.remove(city);
     }
-//    public int countcity(City city){
+//    public int countCity(City city){
 //         return cities.size();
 //    }
     //check
