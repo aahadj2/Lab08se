@@ -20,9 +20,9 @@ public class CustomList {
     public  void delCity(City city){
         cities.remove(city);
     }
-//    public int countCity(City city){
-//         return cities.size();
-//    }
+    public int countCity(){
+         return cities.size();
+    }
     //check
     // Will be implemented later using TDD (leave blank for now)
     // public boolean hasCity(City city) { ... }
